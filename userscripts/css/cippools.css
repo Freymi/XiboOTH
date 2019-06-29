@@ -1,0 +1,36 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+#wrapper {
+    overflow: auto;
+    margin: 10px auto;
+    position: relative;
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    margin: 20px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: #dddddd;
+    border: 1px solid black;
+    display:inline-block;
+    font-size: 20px;
+}
+
+.free {
+  background-color: #00B374;
+}
+
+.title {
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 50px;
+  color:#083a8c;
+}
